@@ -1,0 +1,1 @@
+{"version":2,"languages":{"nodejs-npm":{"guessedImports":["rollup-plugin-typescript2","rollup-plugin-uglify","rollup-plugin-commonjs","rollup-plugin-node-resolve"],"guessedImportsHash":"0951bcfd06393713cef2e23fd9efebda"}}}
